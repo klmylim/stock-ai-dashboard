@@ -1,0 +1,25 @@
+# Web scraping
+feedparser==6.0.11
+newspaper3k==0.2.8
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==5.2.1
+lxml_html_clean==0.1.1
+
+# NLP / ML
+transformers==4.41.2
+torch==2.3.1
+sentencepiece==0.2.0
+
+# Data
+pandas==2.2.2
+
+# Storage & scheduling
+APScheduler==3.10.4
+
+# Dashboard
+streamlit==1.35.0
+plotly==5.22.0
+
+# Finance data (price context)
+yfinance==0.2.40
